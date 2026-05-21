@@ -1,6 +1,6 @@
 # config.py  ← Edit these paths to match YOUR computer
 
-GEMINI_API_KEY = "AIzaSyD8RroFtFA5kgEadmhKIvsjqTqzU6MObss"
+GEMINI_API_KEY = "Your API Key"
 
 # Your app paths (Right-click app → Properties → copy the path)
 APP_PATHS = {
